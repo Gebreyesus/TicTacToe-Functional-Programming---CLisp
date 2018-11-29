@@ -1,9 +1,9 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+TicTacToe Game Implementation using Lisp 
 
 ### What is this repository for? ###
-
+#### Functional Programming
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
@@ -25,5 +25,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
+* Repo owner or admin Beteab Gebru
 * Other community or team contact
